@@ -11,6 +11,7 @@
 <br/>
 
 #### 팀 프로젝트 Goods 🛒
+- 배포 URL: https://goods-trade.vercel.app/
 - 소스 코드: https://github.com/2024TeamUnity/Goods_FE
 <br />
 
